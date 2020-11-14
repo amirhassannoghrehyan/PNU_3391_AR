@@ -4,7 +4,7 @@
 - [PNU_3991_AR](https://github.com/erfaneh4444/PNU_3391_AR)
 
 - [Resume](https://github.com/erfaneh4444/resume_fa.github.io) 
-[SOP](https://github.com/erfaneh4444/SOP/)
+-[SOP](https://github.com/erfaneh4444/SOP/)
 
 - [GitHub](https://github.com/erfaneh4444)
 ------------------
