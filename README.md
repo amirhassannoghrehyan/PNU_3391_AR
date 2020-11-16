@@ -8,5 +8,5 @@
 -[SOP](https://github.com/erfaneh4444/SOP/)
 
 - [GitHub](https://github.com/erfaneh4444)
-- [jlord] (http:patchwork.con/erfaneh4444)
-------------------
+https://www.github.com/erfaneh4444
+-----------------
