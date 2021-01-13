@@ -1,4 +1,4 @@
-# PNU_3991_AR
+# PNU_3991
 ---------
 # امیر حسن نقریان 
 - [PNU_3991_AR](https://github.com/amirhassan4444/PNU_3391_AR)
