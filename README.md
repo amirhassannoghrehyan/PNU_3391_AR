@@ -1,12 +1,12 @@
 # PNU_3991
 ---------
 # امیر حسن نقریان 
-- [PNU_3991_AR](https://github.com/amirhassan4444/PNU_3391_AR)
+- [PNU_3991_AR](https://github.com/amirhassan/PNU_3391_AR)
 
-- [Resume](https://github.com/amirhassan4444/resume_fa.github.io) 
+- [Resume](https://github.com/amirhassan/resume_fa.github.io) 
 
--[SOP](https://github.com/amirhassan4444/SOP/)
+-[SOP](https://github.com/amirhassan/SOP/)
 
-- [GitHub](https://github.com/amirhassan4444)
-https://www.github.com/amirhassan4444
+- [GitHub](https://github.com/amirhassan)
+https://www.github.com/amirhassan
 -----------------
