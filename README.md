@@ -1,12 +1,12 @@
 # PNU_3991
 ---------
-# عرفانه جعفری نژاد 
-- [PNU_3991_AR](https://github.com/erfaneh4444/PNU_3991)
+# امیر حسن نقریان 
+- [PNU_3991_AR](https://github.com/amirhassan/PNU_3991)
 
-- [Resume](https://github.com/erfaneh4444/resume_fa.github.io) 
+- [Resume](https://github.com/amirhassan/resume_fa.github.io) 
 
--[SOP](https://erfaneh4444.github.io/SOP/)
+-[SOP](https://amirhassan.github.io/SOP/)
 
-- [GitHub](https://github.com/erfaneh4444)
-https://www.github.com/erfaneh4444
+- [GitHub](https://github.com/amirhassan)
+https://www.github.com/amirhassan
 -----------------
